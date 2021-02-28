@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.grid {
+    width:400px;
+    height: 95vh;
+    background: url("./images/background.png");
+    position: relative;
+    left: 35%;
+}
+
+.doodler {
+    width: 86px;
+    height: 85px; 
+    background: url("./images/doodler-guy.png");
+    position: absolute;
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background: url("./images/platform.png");
+    position: absolute;
+}
